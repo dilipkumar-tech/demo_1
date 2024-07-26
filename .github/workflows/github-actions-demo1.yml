@@ -2,7 +2,7 @@
 
 name: GitHub_Actions_Demo1
 env:
-  github.actor: Dilip
+  github.actor: Dilip Kumar
   github.repository: demo_1
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
